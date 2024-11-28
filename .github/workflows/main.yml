@@ -12,5 +12,5 @@ jobs:
         uses: actions/checkout@v4
 
       - name: "Run Script"
-      - run: |
+        run: |
           bash ./start.sh "Wrocław" "KLUCZ"
