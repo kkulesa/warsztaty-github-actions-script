@@ -7,9 +7,6 @@ on:
         description: "Miasto"
         required: true
         default: "Warszawa"
-      klucz:
-        description: "Klucz"
-        required: true
 
 jobs:
   pogoda_dla_miast:
